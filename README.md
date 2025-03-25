@@ -1,5 +1,5 @@
 Project Description:
-This is a basic calculator designed with a user-friendly dark theme. It allows users to perform arithmetic operations such as addition, subtraction, multiplication, and division. The calculator also includes percentage (%), a clear (AC) button, a delete (DEL) button, and a decimal point (.).
+This is a basic calculator designed with a user-friendly theme. It allows users to perform arithmetic operations such as addition, subtraction, multiplication, and division. The calculator also includes percentage (%), a clear (AC) button, a delete (DEL) button, and a decimal point (.).
 
 How It Works:
 The calculator layout is created using HTML.
